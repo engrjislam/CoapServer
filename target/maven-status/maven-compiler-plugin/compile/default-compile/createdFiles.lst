@@ -1,0 +1,10 @@
+com/coap/server/main/resources/PublishResource.class
+com/coap/server/main/resources/DynamicResource.class
+com/coap/server/main/resources/DynamicURI$1.class
+com/coap/server/main/CoapApplication.class
+com/coap/server/main/resources/DHTResource.class
+com/coap/server/main/resources/BerryMedResource.class
+com/coap/server/main/utils/CurrentDateTime.class
+com/coap/server/main/Server.class
+com/coap/server/main/resources/DynamicURI.class
+com/coap/server/main/resources/DynamicURI$2.class
